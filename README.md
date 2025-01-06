@@ -1,3 +1,5 @@
+# OBSERVAÇÃO: dei fork nesse repositório com a intenção de ensinar às pessoas estudantes como executar tal procedimento aqui no github.
+
 # Latest news
 
 * November 24, 2024: [Bootiful Spring Boot 3.4: Spring Batch](https://spring.io/blog/2024/11/24/bootiful-34-batch) 
